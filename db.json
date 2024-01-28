@@ -5,22 +5,38 @@
                 {
                     "id": 1,
                     "name": "魏耀天",
-                    "notes": "hello world"
+                    "interest":"编程，游戏",
+                    "idol":"无",
+                    "motto":"I AM PROVIDENCE",
+                    "birthplace":"信阳",
+                    "birth": "2005.12.07"
                 },
                 {
                     "id": 2,
                     "name": "李勃威",
-                    "notes": "hello world"
+                    "interest":"听歌与学学编程，打游戏",
+                    "idol":"我自己",
+                    "motto":"学习决定下限，机遇决定上限",
+                    "birthplace":"廊坊",
+                    "birth": "2004.07.02"
                 },
                 {
                     "id": 3,
                     "name": "谭丰豫",
-                    "notes": "hello world"
+                    "interest":"打乒乓球，听歌与学学编程",
+                    "idol":"樊振东(现役世界第一)",
+                    "motto":"当一个人退无可退的时候，就只剩向前的一条路",
+                    "birthplace":"夏邑",
+                    "birth": "2006.01.20"
                 },
                 {
                     "id": 4,
                     "name": "杨蕊",
-                    "notes": "hello world"
+                    "interest":"打羽毛球",
+                    "idol":"无",
+                    "motto":"距离不一定产生美，但距离一定可以产生清醒",
+                    "birthplace":"河南",
+                    "birth": "2005.07.21"
                 }
             ],
             "two": [
